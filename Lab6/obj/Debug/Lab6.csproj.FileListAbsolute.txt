@@ -1,0 +1,15 @@
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\bin\Debug\Lab6.exe
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\bin\Debug\Lab6.pdb
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\View\MainWindow.g.cs
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\App.g.cs
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\Lab6_MarkupCompile.cache
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\Lab6_MarkupCompile.lref
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\View\MainWindow.baml
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\Lab6.g.resources
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\Lab6.exe
+D:\Массолит\Универ\4 семестр\Технологии программирования\Лабы\LB6-master\Lab6\obj\Debug\Lab6.pdb
